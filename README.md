@@ -1,4 +1,4 @@
-\# HueHeritage AI
+\# HueHeritage - AI
 
 
 
